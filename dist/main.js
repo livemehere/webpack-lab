@@ -1,0 +1,1 @@
+(()=>{"use strict";let o="kong";console.log(o),console.log(o),console.log(3)})();
